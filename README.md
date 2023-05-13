@@ -1,4 +1,4 @@
-# ETLPipelining_Project_using_AWSservice
+# ETL/Data Pipelining Project Using AWSservice
 In this repository, there are 2 folders: **AmazonDataExtraction** and **SpotifyETL**
 
 ## AmazonDataExtraction:
