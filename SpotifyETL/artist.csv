@@ -1,0 +1,131 @@
+,artist_id,artist_name,artist_url
+0,46pWGuE3dSwY3bMMXGBvVS,Rema,https://api.spotify.com/v1/artists/46pWGuE3dSwY3bMMXGBvVS
+1,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx
+2,6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,https://api.spotify.com/v1/artists/6WOdPJmexxFINcKMkP2jMG
+3,1E6arsXf5Fgsnv9YpSzjpE,Parampara Tandon,https://api.spotify.com/v1/artists/1E6arsXf5Fgsnv9YpSzjpE
+4,0m3D4grap8VFSzbJMqgNVk,Kumaar,https://api.spotify.com/v1/artists/0m3D4grap8VFSzbJMqgNVk
+5,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q
+6,5WUlDfRSoLAfcVSX1WnrxN,Sia,https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN
+7,1n9EM0Y4A89vuRiA93gSS9,Kaifi Khalil,https://api.spotify.com/v1/artists/1n9EM0Y4A89vuRiA93gSS9
+8,5XKFrudbV4IiuE5WuTPRmT,Stephen Sanchez,https://api.spotify.com/v1/artists/5XKFrudbV4IiuE5WuTPRmT
+9,7o2ZQYM7nTsaVdkXY38UAA,Em Beihold,https://api.spotify.com/v1/artists/7o2ZQYM7nTsaVdkXY38UAA
+10,4GJ6xDCF5jaUqD6avOuQT6,FIFTY FIFTY,https://api.spotify.com/v1/artists/4GJ6xDCF5jaUqD6avOuQT6
+11,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t
+12,3LZZPxNDGDFVSIPqf4JuEf,Ice Spice,https://api.spotify.com/v1/artists/3LZZPxNDGDFVSIPqf4JuEf
+13,6AMd49uBDJfhf30Ak2QR5s,Coi Leray,https://api.spotify.com/v1/artists/6AMd49uBDJfhf30Ak2QR5s
+14,7kjSuFGKhLm8b5qXoMhRkJ,Libianca,https://api.spotify.com/v1/artists/7kjSuFGKhLm8b5qXoMhRkJ
+15,1wRPtKGflJrBx9BmLsSwlU,Pritam,https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU
+16,4YRxDV8wJFPHPTeXepOstw,Arijit Singh,https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw
+17,2fMqTqiTxUDlmcOEPaQSsx,Amitabh Bhattacharya,https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx
+18,3tPQOjkxO3mrYrrgkTeXgH,Nikhita Gandhi,https://api.spotify.com/v1/artists/3tPQOjkxO3mrYrrgkTeXgH
+19,6KImCVD70vtIoJWnq6nGn3,Harry Styles,https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3
+20,2wY79sveU1sp5g7SokKOiI,Sam Smith,https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI
+21,3Xt3RrJMFv5SZkCfUE8C1J,Kim Petras,https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J
+22,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z
+23,2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,https://api.spotify.com/v1/artists/2WzaAvm2bBCf4pEhyuDgCY
+24,46xBNx0j6cwY6sD9LgMTm1,Rosa Linn,https://api.spotify.com/v1/artists/46xBNx0j6cwY6sD9LgMTm1
+25,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ
+26,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq
+27,67MNhiAICFY6Pwc2YxCO0K,Elley Duhé,https://api.spotify.com/v1/artists/67MNhiAICFY6Pwc2YxCO0K
+28,2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J
+29,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s
+30,5IH6FPUwQTxPSXurCrcIov,Alec Benjamin,https://api.spotify.com/v1/artists/5IH6FPUwQTxPSXurCrcIov
+32,5NHm4TU5Twz7owibYxJfFU,King,https://api.spotify.com/v1/artists/5NHm4TU5Twz7owibYxJfFU
+33,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we
+34,6QrQ7OrISRYIfS5mtacaw2,Jaymes Young,https://api.spotify.com/v1/artists/6QrQ7OrISRYIfS5mtacaw2
+38,3Isy6kedDrgPYoTS1dazA9,Sean Paul,https://api.spotify.com/v1/artists/3Isy6kedDrgPYoTS1dazA9
+40,6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb
+42,3FgHkfb3IqG4WKuVe1xCXM,Sukriti Kakar,https://api.spotify.com/v1/artists/3FgHkfb3IqG4WKuVe1xCXM
+43,6CXEwIaXYfVJ84biCxqc9k,Vishal Dadlani,https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k
+44,4xd7mLI7urqrxELaXhAvzw,Shekhar Ravjiani,https://api.spotify.com/v1/artists/4xd7mLI7urqrxELaXhAvzw
+46,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq
+47,2LIk90788K0zvyj2JJVwkJ,Jack Harlow,https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ
+48,048LktY5zMnakWq7PTtFrz,CKay,https://api.spotify.com/v1/artists/048LktY5zMnakWq7PTtFrz
+49,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7
+50,6HaGTQPmzraVmaVxvz6EUc,Jung Kook,https://api.spotify.com/v1/artists/6HaGTQPmzraVmaVxvz6EUc
+51,3Nrfpe0tUJi4K4DXYWgMUX,BTS,https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX
+52,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr
+53,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF
+54,5r3wPya2PpeTTsXsGhQU8O,Shubh,https://api.spotify.com/v1/artists/5r3wPya2PpeTTsXsGhQU8O
+55,1sSYaQBOI71QZDZ9OWW3hp,Chani Nattan,https://api.spotify.com/v1/artists/1sSYaQBOI71QZDZ9OWW3hp
+56,4Lk9Mory8nRTolPO1TMMcN,Inderpal Moga,https://api.spotify.com/v1/artists/4Lk9Mory8nRTolPO1TMMcN
+62,19LIHDDSHBD5NyYHI3gpzB,Shilpa Rao,https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB
+63,2Yf4MRVpt0rcAd5y5h5ph1,Caralisa Monteiro,https://api.spotify.com/v1/artists/2Yf4MRVpt0rcAd5y5h5ph1
+68,2qAwMsiIjTzlmfAkXKvhVA,Armani White,https://api.spotify.com/v1/artists/2qAwMsiIjTzlmfAkXKvhVA
+69,6hyCmqlpgEhkMKKr65sFgI,Yohani,https://api.spotify.com/v1/artists/6hyCmqlpgEhkMKKr65sFgI
+70,1tqysapcCh1lWEAc9dIFpa,Jubin Nautiyal,https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa
+71,4f7KfxeHq9BiylGmyXepGt,Tanishk Bagchi,https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt
+72,5r2baeTwcCJnuIsDIlxUJo,Rashmi Virag,https://api.spotify.com/v1/artists/5r2baeTwcCJnuIsDIlxUJo
+73,0GiAC4VvvYCypjRH6IiasK,Surya Ragunaathan,https://api.spotify.com/v1/artists/0GiAC4VvvYCypjRH6IiasK
+74,4wwYGgSpeBtvk5WX6HBqzw,Aditya A,https://api.spotify.com/v1/artists/4wwYGgSpeBtvk5WX6HBqzw
+76,3nqS8jzqmsPKFJTp0BOIel,Ikky,https://api.spotify.com/v1/artists/3nqS8jzqmsPKFJTp0BOIel
+77,6LEG9Ld1aLImEFEVHdWNSB,AP Dhillon,https://api.spotify.com/v1/artists/6LEG9Ld1aLImEFEVHdWNSB
+78,5DHi2MeoRgAwPE0A0qwRMl,Gurinder Gill,https://api.spotify.com/v1/artists/5DHi2MeoRgAwPE0A0qwRMl
+79,0OS0NZnK7TGIAWx8MkWNFN,Intense,https://api.spotify.com/v1/artists/0OS0NZnK7TGIAWx8MkWNFN
+80,3bWIy9AUrQdiNeS62Bp3OP,Shae Gill,https://api.spotify.com/v1/artists/3bWIy9AUrQdiNeS62Bp3OP
+81,3NegWDGp038A3FIi3gSYzl,Ali Sethi,https://api.spotify.com/v1/artists/3NegWDGp038A3FIi3gSYzl
+82,4PULA4EFzYTrxYvOVlwpiQ,Sidhu Moose Wala,https://api.spotify.com/v1/artists/4PULA4EFzYTrxYvOVlwpiQ
+83,4C19flKmMm12gRxmBJWMCV,Varinder Brar,https://api.spotify.com/v1/artists/4C19flKmMm12gRxmBJWMCV
+84,3quojFCZjKk1j5zIv0HX2P,Rav Dhaliwal,https://api.spotify.com/v1/artists/3quojFCZjKk1j5zIv0HX2P
+85,2YzXsQoI3rqYNEVd4nac7g,Ultra Beats,https://api.spotify.com/v1/artists/2YzXsQoI3rqYNEVd4nac7g
+86,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms
+87,5rQoBDKFnd1n6BkdbgVaRL,Guru Randhawa,https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL
+88,6qjhYs5KNSoSU6fNJqDGIo,Sanjoy,https://api.spotify.com/v1/artists/6qjhYs5KNSoSU6fNJqDGIo
+91,6DARBhWbfcS9E4yJzcliqQ,Karan Aujla,https://api.spotify.com/v1/artists/6DARBhWbfcS9E4yJzcliqQ
+92,4qjiRRFcM4WZ0aJ3IHdWPN,Avvy Sra,https://api.spotify.com/v1/artists/4qjiRRFcM4WZ0aJ3IHdWPN
+93,5gZhfbckaWo89OzDSk3gdT,Jaani,https://api.spotify.com/v1/artists/5gZhfbckaWo89OzDSk3gdT
+94,3gBKY0y3dFFVRqicLnVZYz,Alka Yagnik,https://api.spotify.com/v1/artists/3gBKY0y3dFFVRqicLnVZYz
+96,4IKVDbCSBTxBeAsMKjAuTs,Armaan Malik,https://api.spotify.com/v1/artists/4IKVDbCSBTxBeAsMKjAuTs
+97,5wJ1H6ud777odtZl5gG507,Vishal Mishra,https://api.spotify.com/v1/artists/5wJ1H6ud777odtZl5gG507
+99,6RF8hEdlUKoLPQOHmBbHiM,Yasser Desai,https://api.spotify.com/v1/artists/6RF8hEdlUKoLPQOHmBbHiM
+100,5f4QpKfy7ptCHwTqspnSJI,Neha Kakkar,https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI
+101,4yxICw7joYAxRI2sTRldLB,Rajat Nagpal,https://api.spotify.com/v1/artists/4yxICw7joYAxRI2sTRldLB
+105,00sCATpEvwH48ays7PlQFU,Jonita Gandhi,https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU
+106,1FWl7I9wJpb7Bhhutef4Xe,Taaruk Raina,https://api.spotify.com/v1/artists/1FWl7I9wJpb7Bhhutef4Xe
+107,0NbgKDsEHiPzZBZkqZGkXm,Mismatched - Cast,https://api.spotify.com/v1/artists/0NbgKDsEHiPzZBZkqZGkXm
+108,5ghnxpW47ojtLHHyTLdxdY,Witt Lowry,https://api.spotify.com/v1/artists/5ghnxpW47ojtLHHyTLdxdY
+109,4npEfmQ6YuiwW1GpUmaq3F,Ava Max,https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F
+110,63QHbwCDdJ50C72D4ojeo1,Rito Riba,https://api.spotify.com/v1/artists/63QHbwCDdJ50C72D4ojeo1
+112,0AS5y6FY1c4JRl0oWAYu2y,Rana Sotal,https://api.spotify.com/v1/artists/0AS5y6FY1c4JRl0oWAYu2y
+113,3iGhlvzpXc0UHBQ7klAItX,Mitraz,https://api.spotify.com/v1/artists/3iGhlvzpXc0UHBQ7klAItX
+114,0y59o4v8uw5crbN9M3JiL1,Badshah,https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1
+116,0V8aeNb0fnR2P8eZVrx3lI,Devika Badyal,https://api.spotify.com/v1/artists/0V8aeNb0fnR2P8eZVrx3lI
+117,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O
+122,7qjJw7ZM2ekDSahLXPjIlN,Sid Sriram,https://api.spotify.com/v1/artists/7qjJw7ZM2ekDSahLXPjIlN
+123,1m9rpvDVv7rftegCQDIESg,Sreejith Edavana,https://api.spotify.com/v1/artists/1m9rpvDVv7rftegCQDIESg
+124,1EowJ1WwkMzkCkRomFhui7,RADWIMPS,https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7
+125,3GzVC7GGbmO2SuBu92DqUn,Toaka,https://api.spotify.com/v1/artists/3GzVC7GGbmO2SuBu92DqUn
+126,0kTAB5SUakX286t6K7J3QR,Dikshant,https://api.spotify.com/v1/artists/0kTAB5SUakX286t6K7J3QR
+128,4vvW590Gq8dNWsP5BM9FkS,Gminxr,https://api.spotify.com/v1/artists/4vvW590Gq8dNWsP5BM9FkS
+130,6aQfrWHwAcuY8IYItbChZh,Shinda Kahlon,https://api.spotify.com/v1/artists/6aQfrWHwAcuY8IYItbChZh
+131,1W7FNibLa0O0b572tB2w7t,Pink Sweat$,https://api.spotify.com/v1/artists/1W7FNibLa0O0b572tB2w7t
+134,4hMUptoqDVqFXA8Inz20II,Prince Narula,https://api.spotify.com/v1/artists/4hMUptoqDVqFXA8Inz20II
+135,7yLGN6pQ3Fll8eWpjJwwQl,Munawar Faruqui,https://api.spotify.com/v1/artists/7yLGN6pQ3Fll8eWpjJwwQl
+136,0N2lT1m7rG0klYHZrkyMPw,Rony Ajnali,https://api.spotify.com/v1/artists/0N2lT1m7rG0klYHZrkyMPw
+137,7jbG8tDQ5FmqBbTCj5dJdy,DG IMMORTALS,https://api.spotify.com/v1/artists/7jbG8tDQ5FmqBbTCj5dJdy
+138,4MJZBb8KABfKw0gzfgacpO,Raga,https://api.spotify.com/v1/artists/4MJZBb8KABfKw0gzfgacpO
+139,3ioOEaiQ1Zw6RMCesOOWfZ,Harjas Harjaayi,https://api.spotify.com/v1/artists/3ioOEaiQ1Zw6RMCesOOWfZ
+140,1Ik6g05IoSfFmpqi4Jg7Kc,VIRTUAL_AF,https://api.spotify.com/v1/artists/1Ik6g05IoSfFmpqi4Jg7Kc
+141,4v9G79IPGEpwTbgB6TUUaY,DARK HORSE,https://api.spotify.com/v1/artists/4v9G79IPGEpwTbgB6TUUaY
+143,4fEkbug6kZzzJ8eYX6Kbbp,KK,https://api.spotify.com/v1/artists/4fEkbug6kZzzJ8eYX6Kbbp
+145,4GEyPR3J4DYvuTRuPJQ0CW,Anvita Dutt Guptan,https://api.spotify.com/v1/artists/4GEyPR3J4DYvuTRuPJQ0CW
+146,4ITkqBlf5eoVCOFwsJCnqo,Harrdy Sandhu,https://api.spotify.com/v1/artists/4ITkqBlf5eoVCOFwsJCnqo
+147,2kfi47LWmlXzQ3p3kWonfQ,Madhur Sharma,https://api.spotify.com/v1/artists/2kfi47LWmlXzQ3p3kWonfQ
+148,16023OFrIxSmKOMpIVJ6Ax,Swapnil Tare,https://api.spotify.com/v1/artists/16023OFrIxSmKOMpIVJ6Ax
+149,5HcunTidTUrOaf8V0iJcvl,Nusrat Fateh Ali Khan,https://api.spotify.com/v1/artists/5HcunTidTUrOaf8V0iJcvl
+150,4LZrB16vINsCHc28cE6oQo,Aditya Bhardwaj,https://api.spotify.com/v1/artists/4LZrB16vINsCHc28cE6oQo
+151,4gdMJYnopf2nEUcanAwstx,Anuv Jain,https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx
+152,1mYsTxnqsietFxj1OgoGbG,A.R. Rahman,https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG
+154,12CpR4SNDzVIlDoPSeNFeW,Shashaa Tirupati,https://api.spotify.com/v1/artists/12CpR4SNDzVIlDoPSeNFeW
+156,7HCqGPJcQTyGJ2yqntbuyr,Amit Trivedi,https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr
+158,3ZiBHBeZ3OAKJEkDWzQFHS,Sireesha Bhagavatula,https://api.spotify.com/v1/artists/3ZiBHBeZ3OAKJEkDWzQFHS
+159,3AVfmawzu83sp94QW7CEGm,Astrid S,https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm
+160,49YbNTLaaAbZHLtDI2aPGL,Tesher,https://api.spotify.com/v1/artists/49YbNTLaaAbZHLtDI2aPGL
+161,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,https://api.spotify.com/v1/artists/07YZf4WDAMNwqr4jfgOZ8y
+162,0wEvWMQRqaXcgnrZv6KtyL,Spice,https://api.spotify.com/v1/artists/0wEvWMQRqaXcgnrZv6KtyL
+163,5EvFsr3kj42KNv97ZEnqij,Shaggy,https://api.spotify.com/v1/artists/5EvFsr3kj42KNv97ZEnqij
+165,5mWQT8CLTa4mAQAJdFjHb1,Abdul Hannan,https://api.spotify.com/v1/artists/5mWQT8CLTa4mAQAJdFjHb1
+166,01pFDtbY3k5uOmy0Pbg93C,Rovalio,https://api.spotify.com/v1/artists/01pFDtbY3k5uOmy0Pbg93C
+167,3fWcIRZlzhMl2YNACMvHui,Paradox,https://api.spotify.com/v1/artists/3fWcIRZlzhMl2YNACMvHui
+170,4ojkMVHjuDZgDXSJy5qs2h,Madhubanti Bagchi,https://api.spotify.com/v1/artists/4ojkMVHjuDZgDXSJy5qs2h
+171,1mBydYMVBECdDmMfE2sEUO,Sachin-Jigar,https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO
