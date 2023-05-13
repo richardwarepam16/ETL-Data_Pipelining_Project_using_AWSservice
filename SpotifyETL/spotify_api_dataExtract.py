@@ -10,7 +10,7 @@ def lambda_handler1(event, context):
     cilent_id = os.environ.get('client_id')
     client_secret = os.environ.get('client_secret')
     
-    client_credentials_manager = SpotifyClientCredentials(client_id= "fd7aa42654254f01a930ab6a2726a981", client_secret= "b77a127b882a42aa9cbee7af0fa5642d")
+    client_credentials_manager = SpotifyClientCredentials(client_id= "your_client_id", client_secret= "your_client_secret")
     sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
     playlists = sp.user_playlists('spotify')
     
